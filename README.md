@@ -5,4 +5,6 @@ This Go Quiz Game is a command-line application written in Go that tests users o
 
 ## How to Play
 When you start the game, you will be presented with math problems one by one in the terminal. Each problem requires you to input the answer. There is a timer set for the entire quiz, and if time runs out, the game will end.
+
+
 ![Project Overview](https://github.com/dhyey2209/Go-Lang-Quiz-Game/blob/main/Images/CLI%20.png)
